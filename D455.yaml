@@ -1,0 +1,41 @@
+%YAML:1.0
+# ===== gen_yaml.py 自动生成 (D455), 来源: /home/cat/bags/d455_test1.bag =====
+Camera.type: "PinHole"
+Camera1.fx: 386.489014
+Camera1.fy: 386.489014
+Camera1.cx: 324.494446
+Camera1.cy: 242.917252
+Camera1.k1: 0.00000000
+Camera1.k2: 0.00000000
+Camera1.p1: 0.00000000
+Camera1.p2: 0.00000000
+Camera.width: 640
+Camera.height: 480
+Camera.fps: 30
+# bf = baseline * fx
+Camera.bf: 36.7467
+Camera.RGB: 1
+ThDepth: 40.0
+ORBextractor.nFeatures: 1200
+ORBextractor.scaleFactor: 1.2
+ORBextractor.nLevels: 8
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+Viewer.KeyFrameSize: 0.05
+Viewer.KeyFrameLineWidth: 1.0
+Viewer.GraphLineWidth: 0.9
+Viewer.PointSize: 2.0
+Viewer.CameraSize: 0.08
+Viewer.CameraLineWidth: 3.0
+Viewer.ViewpointX: 0.0
+Viewer.ViewpointY: -0.7
+Viewer.ViewpointZ: -1.8
+Viewer.ViewpointF: 500.0
+Camera.fx: 386.489014
+Camera.fy: 386.489014
+Camera.cx: 324.494446
+Camera.cy: 242.917252
+Camera.k1: 0.00000000
+Camera.k2: 0.00000000
+Camera.p1: 0.00000000
+Camera.p2: 0.00000000
